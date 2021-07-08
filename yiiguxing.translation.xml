@@ -1,23 +1,35 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="lastReplacementTargetLanguage" value="CHINESE" />
+    <option name="newTranslationDialogHeight" value="137" />
+    <option name="newTranslationDialogWidth" value="302" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="default -&gt; throw new Exception(&quot;没有该功能，请重新选择！&quot;);" />
+      <item value="delete" />
+      <item value="菜单" />
+      <item value="delete Id" />
+      <item value="println" />
+      <item value="System" />
+      <item value="change Name" />
+      <item value="choice" />
+      <item value="1" />
+      <item value="删除学生信息" />
+      <item value="int choice = sc.nextint();" />
+      <item value="next Int" />
+      <item value="true" />
+      <item value="西瓜" />
+      <item value="xi'gua" />
+      <item value="xi'guan" />
+      <item value="{&#10;                if (choice == 5) {&#10;                    system.out.println(&quot;您已退出该系统&quot;);&#10;                    return;&#10;                } else&#10;                    statusmanager.manage(choice);&#10;&#10;            }" />
       <item value="Exception" />
       <item value="请选择" />
       <item value="您已退出该系统" />
       <item value="{ system.out.println(e.getmessage()); }" />
-      <item value="System" />
       <item value="out" />
       <item value="get Message" />
-      <item value="println" />
-      <item value="删除学生信息" />
       <item value="不是语句" />
-      <item value="choice" />
-      <item value="int choice = sc.nextint();" />
-      <item value="西瓜" />
       <item value="xi'gu" />
       <item value="zhen'bu'x" />
       <item value="zhen'bu'xu'o" />
@@ -27,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
@@ -36,7 +48,8 @@
     <option name="lastTrimTime" value="1625759231129" />
   </component>
   <component name="Settings">
-    <option name="keepFormat" value="true" />
+    <option name="selectTargetLanguageBeforeReplacement" value="true" />
+    <option name="showWordForms" value="false" />
     <option name="showWordsOnStartup" value="true" />
   </component>
 </application>
