@@ -1,0 +1,42 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="342" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="Exception" />
+      <item value="请选择" />
+      <item value="您已退出该系统" />
+      <item value="{ system.out.println(e.getmessage()); }" />
+      <item value="System" />
+      <item value="out" />
+      <item value="get Message" />
+      <item value="println" />
+      <item value="删除学生信息" />
+      <item value="不是语句" />
+      <item value="choice" />
+      <item value="int choice = sc.nextint();" />
+      <item value="西瓜" />
+      <item value="xi'gu" />
+      <item value="zhen'bu'x" />
+      <item value="zhen'bu'xu'o" />
+      <item value="zhen" />
+      <item value="z" />
+      <item value="zheng" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1625759231129" />
+  </component>
+  <component name="Settings">
+    <option name="keepFormat" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+  </component>
+</application>
