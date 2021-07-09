@@ -2,17 +2,18 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="ENGLISH" />
     <option name="newTranslationDialogHeight" value="137" />
-    <option name="newTranslationDialogWidth" value="302" />
+    <option name="newTranslationDialogWidth" value="352" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="{ system.out.println(&quot;请输入学生学号id：&quot;); integer findid = integer.valueof(sc.next()); studentdao dao = new studentdao(); if(!dao.judgeexist(findid)) system.out.println(&quot;该学生不存在！&quot;); else{ student student = dao.find(findid); system.out.println(&quot;学号：&quot;+student.getid()+&quot; 姓名：&quot;+student.getname()+&quot; 性别：&quot;+student.getsex()+&quot; 学院：&quot;+student.getacademy()+&quot; 专业：&quot;+student.getmajor()+&quot; 年级：&quot;+student.getgrade()+&quot; 班级：&quot;+student.getclasses()); } }" />
+      <item value="println" />
       <item value="数据" />
       <item value="没有该功能" />
       <item value="default -&gt; throw new Exception(&quot;没有该功能，请重新选择！&quot;);" />
       <item value="delete" />
       <item value="菜单" />
       <item value="delete Id" />
-      <item value="println" />
       <item value="System" />
       <item value="change Name" />
       <item value="choice" />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
       </map>
     </option>
   </component>
