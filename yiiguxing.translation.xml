@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Copyright (c) HTML5 Boilerplate&#10;&#10;Permission is hereby granted, free of charge, to any person obtaining a copy of&#10;this software and associated documentation files (the &quot;Software&quot;), to deal in&#10;the Software without restriction, including without limitation the rights to&#10;use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies&#10;of the Software, and to permit persons to whom the Software is furnished to do&#10;so, subject to the following conditions:&#10;&#10;The above copyright notice and this permission notice shall be included in all&#10;copies or substantial portions of the Software.&#10;&#10;THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR&#10;IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,&#10;FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE&#10;AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER&#10;LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,&#10;OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE&#10;SOFTWARE.&#10;" />
+      <item value="Software" />
+      <item value="portions" />
+      <item value="Normalize.css&#10;In order to make browsers render all elements more consistently and in line with modern standards, we include Normalize.css — a modern, HTML5-ready alternative to CSS resets.&#10;&#10;As opposed to CSS resets, Normalize.css:&#10;&#10;targets only the styles that need normalizing&#10;preserves useful browser defaults rather than erasing them&#10;corrects bugs and common browser inconsistencies&#10;improves usability with subtle improvements&#10;doesn't clutter the debugging tools&#10;has better documentation" />
       <item value="This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA.&#10;Please note this is not an official part of Checkstyle - they neither endorse nor bear responsibility for this plugin. Please see the README for full details" />
       <item value="println" />
       <item value="grade" />
@@ -52,13 +56,11 @@
       <item value="xi'gu" />
       <item value="zhen'bu'x" />
       <item value="zhen'bu'xu'o" />
-      <item value="z" />
-      <item value="zheng" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="113" />
       </map>
     </option>
   </component>
