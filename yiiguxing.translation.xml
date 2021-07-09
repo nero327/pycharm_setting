@@ -6,8 +6,6 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="synced" />
-      <item value="Settings" />
       <item value="请输入学生学号id" />
       <item value="{ system.out.println(&quot;请输入学生学号id：&quot;); integer findid = integer.valueof(sc.next()); studentdao dao = new studentdao(); if(!dao.judgeexist(findid)) system.out.println(&quot;该学生不存在！&quot;); else{ student student = dao.find(findid); system.out.println(&quot;学号：&quot;+student.getid()+&quot; 姓名：&quot;+student.getname()+&quot; 性别：&quot;+student.getsex()+&quot; 学院：&quot;+student.getacademy()+&quot; 专业：&quot;+student.getmajor()+&quot; 年级：&quot;+student.getgrade()+&quot; 班级：&quot;+student.getclasses()); } }" />
       <item value="println" />
@@ -45,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
