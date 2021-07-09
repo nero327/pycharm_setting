@@ -6,6 +6,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="avoid" />
+      <item value="hidden" />
+      <item value="visibility" />
+      <item value="font" />
+      <item value="display" />
+      <item value="html" />
+      <item value="margin" />
+      <item value="line-height" />
+      <item value="line" />
+      <item value="height" />
+      <item value="scale" />
+      <item value="initial" />
+      <item value="device" />
+      <item value="width" />
+      <item value="viewport" />
+      <item value="head" />
+      <item value="meta" />
+      <item value="charset" />
       <item value="Copyright (c) HTML5 Boilerplate&#10;&#10;Permission is hereby granted, free of charge, to any person obtaining a copy of&#10;this software and associated documentation files (the &quot;Software&quot;), to deal in&#10;the Software without restriction, including without limitation the rights to&#10;use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies&#10;of the Software, and to permit persons to whom the Software is furnished to do&#10;so, subject to the following conditions:&#10;&#10;The above copyright notice and this permission notice shall be included in all&#10;copies or substantial portions of the Software.&#10;&#10;THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR&#10;IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,&#10;FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE&#10;AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER&#10;LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,&#10;OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE&#10;SOFTWARE.&#10;" />
       <item value="Software" />
       <item value="portions" />
@@ -38,29 +56,12 @@
       <item value="change Name" />
       <item value="choice" />
       <item value="1" />
-      <item value="删除学生信息" />
-      <item value="int choice = sc.nextint();" />
-      <item value="next Int" />
-      <item value="true" />
-      <item value="西瓜" />
-      <item value="xi'gua" />
-      <item value="xi'guan" />
-      <item value="{&#10;                if (choice == 5) {&#10;                    system.out.println(&quot;您已退出该系统&quot;);&#10;                    return;&#10;                } else&#10;                    statusmanager.manage(choice);&#10;&#10;            }" />
-      <item value="Exception" />
-      <item value="请选择" />
-      <item value="您已退出该系统" />
-      <item value="{ system.out.println(e.getmessage()); }" />
-      <item value="out" />
-      <item value="get Message" />
-      <item value="不是语句" />
-      <item value="xi'gu" />
-      <item value="zhen'bu'x" />
-      <item value="zhen'bu'xu'o" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
@@ -71,5 +72,6 @@
     <option name="selectTargetLanguageBeforeReplacement" value="true" />
     <option name="showWordForms" value="false" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>

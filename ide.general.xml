@@ -1,7 +1,9 @@
 <application>
   <component name="GeneralSettings">
+    <option name="browserPath" value="C:\Program Files\Internet Explorer\iexplore.exe" />
     <option name="confirmExit" value="false" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="useDefaultBrowser" value="false" />
   </component>
 </application>
