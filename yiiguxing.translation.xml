@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="ENGLISH" />
     <option name="newTranslationDialogHeight" value="261" />
-    <option name="newTranslationDialogWidth" value="488" />
+    <option name="newTranslationDialogWidth" value="486" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="On branch master Your branch is up to date with 'origin/master'. Changes not staged for commit: (use &quot;git add  ...&quot; to update what will be committed) (use &quot;git restore  ...&quot; to discard changes in working directory) (commit or discard the untracked or modified content in submodules) modified: studentmanage (modified content, untracked content) modified: wuziqi (modified content, untracked content) no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;)" />
+      <item value="git@github.com:nero327/IDEA_project.git" />
       <item value="avoid" />
       <item value="hidden" />
       <item value="visibility" />
@@ -54,13 +56,11 @@
       <item value="delete Id" />
       <item value="System" />
       <item value="change Name" />
-      <item value="choice" />
-      <item value="1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="135" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
