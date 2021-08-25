@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="odds" />
       <item value="Serial" />
       <item value="On branch master Your branch is up to date with 'origin/master'. Changes not staged for commit: (use &quot;git add  ...&quot; to update what will be committed) (use &quot;git restore  ...&quot; to discard changes in working directory) (commit or discard the untracked or modified content in submodules) modified: studentmanage (modified content, untracked content) modified: wuziqi (modified content, untracked content) no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;)" />
       <item value="git@github.com:nero327/IDEA_project.git" />
@@ -55,18 +56,17 @@
       <item value="delete" />
       <item value="菜单" />
       <item value="delete Id" />
-      <item value="System" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626336026073" />
+    <option name="lastTrimTime" value="1629894867434" />
   </component>
   <component name="Settings">
     <option name="selectTargetLanguageBeforeReplacement" value="true" />
