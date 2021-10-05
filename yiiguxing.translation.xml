@@ -2,10 +2,19 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="ENGLISH" />
     <option name="newTranslationDialogHeight" value="261" />
-    <option name="newTranslationDialogWidth" value="486" />
+    <option name="newTranslationDialogWidth" value="482" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="hello&#10;```&#10;" />
+      <item value="&#10;```&#10;" />
+      <item value="niu&#10;```&#10;" />
+      <item value="翻译失败: 未知错误&#10;&#10;&gt;Plugin v3.1.1  &#10;&gt;IntelliJ IDEA 2021.1.3  &#10;&gt;内部版本号 #IU-211.7628.21，June 30, 2021 构建  &#10;&gt;运行时版本: 11.0.11+9-b1341.60 amd64  &#10;&gt;VM: OpenJDK 64-Bit Server VM，JetBrains s.r.o.  &#10;&gt;OS: Windows 10 10.0&#10;&#10;```&#10;cn.yiiguxing.plugin.translate.trans.TranslateException: Google 翻译 :: 翻译失败: 未知错误&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:129)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.TranslateService$translate$$inlined$executeOnPooledThread$1.run(Applications.kt:184)&#10;&#9;at com.intellij.util.RunnableCallable.call(RunnableCallable.java:20)&#10;&#9;at com.intellij.util.RunnableCallable.call(RunnableCallable.java:11)&#10;&#9;at com.intellij.openapi.application.impl.ApplicationImpl$1.call(ApplicationImpl.java:265)&#10;&#9;at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)&#10;&#9;at java.base/java.security.AccessController.doPrivileged(Native Method)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)&#10;&#9;at java.base/java.lang.Thread.run(Thread.java:829)&#10;Caused by: java.net.HttpRetryException: cannot retry due to redirection, in streaming mode&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2713)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2699)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1854)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)&#10;&#9;at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:365)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.readString(HttpRequests.java:429)&#10;&#9;at com.intellij.util.io.HttpRequests$Request.readString(HttpRequests.java:102)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate$lambda-3(AbstractTranslator.kt:90)&#10;&#9;at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:531)&#10;&#9;at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate(AbstractTranslator.kt:88)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:100)&#10;&#9;... 12 more&#10;```&#10;" />
+      <item value="TypeError: can only concatenate str (not &quot;int&quot;) to str" />
+      <item value="    fadfaf&#10;=================" />
+      <item value="    fadfaf&#10;==================" />
+      <item value="    fadfaf&#10;=" />
+      <item value="    fadfaf&#10;" />
       <item value="odds" />
       <item value="Serial" />
       <item value="On branch master Your branch is up to date with 'origin/master'. Changes not staged for commit: (use &quot;git add  ...&quot; to update what will be committed) (use &quot;git restore  ...&quot; to discard changes in working directory) (commit or discard the untracked or modified content in submodules) modified: studentmanage (modified content, untracked content) modified: wuziqi (modified content, untracked content) no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;)" />
@@ -47,20 +56,11 @@
       <item value="merge" />
       <item value="mer" />
       <item value="Command Settings... missed 2 time(s)" />
-      <item value="Command" />
-      <item value="请输入学生学号id" />
-      <item value="{ system.out.println(&quot;请输入学生学号id：&quot;); integer findid = integer.valueof(sc.next()); studentdao dao = new studentdao(); if(!dao.judgeexist(findid)) system.out.println(&quot;该学生不存在！&quot;); else{ student student = dao.find(findid); system.out.println(&quot;学号：&quot;+student.getid()+&quot; 姓名：&quot;+student.getname()+&quot; 性别：&quot;+student.getsex()+&quot; 学院：&quot;+student.getacademy()+&quot; 专业：&quot;+student.getmajor()+&quot; 年级：&quot;+student.getgrade()+&quot; 班级：&quot;+student.getclasses()); } }" />
-      <item value="数据" />
-      <item value="没有该功能" />
-      <item value="default -&gt; throw new Exception(&quot;没有该功能，请重新选择！&quot;);" />
-      <item value="delete" />
-      <item value="菜单" />
-      <item value="delete Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="138" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
