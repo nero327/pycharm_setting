@@ -1,0 +1,50 @@
+<keymap version="1" name="DDC" parent="VSCode">
+  <action id="$ChooseTranslatorAction" />
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="$EditorTranslateAction">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="$ShowTranslationDialogAction">
+    <mouse-shortcut keystroke="shift control button2" />
+  </action>
+  <action id="$TranslateAndReplaceAction" />
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="AddToFavorites">
+    <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="CWMHostShowPopupAction" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="Maven.Uml.Exclude" />
+  <action id="编辑器EditorTranslateAction">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="编辑器ShowTranslationDialogAction">
+    <mouse-shortcut keystroke="shift control button2" />
+  </action>
+</keymap>
