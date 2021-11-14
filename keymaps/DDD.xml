@@ -23,14 +23,26 @@
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="EditorSelectLine" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="ExpandAllRegions" />
   <action id="ExpandRegionRecursively" />
@@ -44,6 +56,9 @@
   <action id="RevealIn" />
   <action id="RunDashboard.EditConfiguration" />
   <action id="SaveAll" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="Terminal.ClearBuffer" />
   <action id="Terminal.NextSplitter" />
   <action id="Terminal.PrevSplitter" />
