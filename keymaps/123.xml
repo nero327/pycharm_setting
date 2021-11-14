@@ -1,4 +1,4 @@
-<keymap version="1" name="DDC" parent="VSCode">
+<keymap version="1" name="123" parent="VSCode">
   <action id="$ChooseTranslatorAction" />
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />

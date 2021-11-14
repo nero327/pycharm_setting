@@ -1,0 +1,53 @@
+<keymap version="1" name="DDD" parent="VSCode">
+  <action id="CloseAllEditors" />
+  <action id="CloseProject" />
+  <action id="CollapseAllRegions" />
+  <action id="CollapseRegionRecursively" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="CompareClipboardWithSelection" />
+  <action id="CopyAbsolutePath">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="EditSourceInNewWindow" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorJoinLines" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorSelectLine" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="ExpandAllRegions" />
+  <action id="ExpandRegionRecursively" />
+  <action id="Help.KeymapReference" />
+  <action id="JumpToLastChange" />
+  <action id="MoveTabRight" />
+  <action id="NextSplitter" />
+  <action id="PrevSplitter" />
+  <action id="QuickChangeScheme" />
+  <action id="RemoteServers.EditServerConfig" />
+  <action id="RevealIn" />
+  <action id="RunDashboard.EditConfiguration" />
+  <action id="SaveAll" />
+  <action id="Terminal.ClearBuffer" />
+  <action id="Terminal.NextSplitter" />
+  <action id="Terminal.PrevSplitter" />
+  <action id="ToggleZenMode" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+</keymap>
