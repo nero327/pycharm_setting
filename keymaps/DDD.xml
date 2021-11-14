@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="CompareClipboardWithSelection" />
+  <action id="Console.TableResult.AddColumn" />
   <action id="CopyAbsolutePath">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
@@ -16,7 +17,7 @@
   <action id="EditSourceInNewWindow" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift alt down" />
@@ -25,7 +26,7 @@
   <action id="EditorJoinLines" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="EditorLeftWithSelection">
     <keyboard-shortcut first-keystroke="shift left" />
@@ -41,16 +42,17 @@
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="EditorRightWithSelection">
     <keyboard-shortcut first-keystroke="shift right" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="EditorSelectLine" />
+  <action id="EditorToggleColumnMode" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift up" />
@@ -68,6 +70,14 @@
   <action id="RevealIn" />
   <action id="RunDashboard.EditConfiguration" />
   <action id="SaveAll" />
+  <action id="ScrollPane-unitScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="ScrollPane-unitScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
