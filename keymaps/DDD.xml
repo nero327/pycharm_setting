@@ -18,6 +18,10 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
@@ -26,6 +30,14 @@
   <action id="EditorLeftWithSelection">
     <keyboard-shortcut first-keystroke="shift left" />
     <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -59,6 +71,7 @@
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="Terminal.ClearBuffer" />
   <action id="Terminal.NextSplitter" />
   <action id="Terminal.PrevSplitter" />
