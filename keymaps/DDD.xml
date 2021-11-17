@@ -89,6 +89,9 @@
   <action id="Terminal.NextSplitter" />
   <action id="Terminal.PrevSplitter" />
   <action id="ToggleZenMode" />
+  <action id="TranslatePlugin.TranslateAction">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="Tree-selectNext">
     <keyboard-shortcut first-keystroke="down" />
   </action>
