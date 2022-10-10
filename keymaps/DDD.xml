@@ -88,6 +88,7 @@
   <action id="Terminal.ClearBuffer" />
   <action id="Terminal.NextSplitter" />
   <action id="Terminal.PrevSplitter" />
+  <action id="Terminal.SwitchFocusToEditor" />
   <action id="ToggleZenMode" />
   <action id="TranslatePlugin.TranslateAction">
     <mouse-shortcut keystroke="control button2" />
